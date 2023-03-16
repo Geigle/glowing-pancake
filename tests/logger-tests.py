@@ -1,2 +1,2 @@
-import "glowing-pancake"
+from glowing-pancake import Logger
 

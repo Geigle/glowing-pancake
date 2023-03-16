@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "glowing-pancake"
+name = "glowing_pancake"
 version = "0.0.1"
 authors = [ { name="Gage Geigle", email="gage@gagegeigle.com" } ]
 description = "A simple logger for your python projects."
